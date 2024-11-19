@@ -76,3 +76,4 @@ C:\Users\jhoan\Downloads\Registros-CUN-development\Registros_CUN\obj\Debug\net8.
 C:\Users\jhoan\Downloads\Registros-CUN-development\Registros_CUN\obj\Debug\net8.0-windows\Registros_CUN.pdb
 C:\Users\jhoan\Downloads\Registros-CUN-development\Registros_CUN\obj\Debug\net8.0-windows\Registros_CUN.genruntimeconfig.cache
 C:\Users\jhoan\Downloads\Registros-CUN-development\Registros_CUN\obj\Debug\net8.0-windows\ref\Registros_CUN.dll
+C:\Users\jhoan\Downloads\Registros-CUN-development\Registros_CUN\obj\Debug\net8.0-windows\Registros_CUN.sourcelink.json

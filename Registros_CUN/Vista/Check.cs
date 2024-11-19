@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Registros_CUN;
+using System;
 using System.Data;
 using System.Windows.Forms;
 

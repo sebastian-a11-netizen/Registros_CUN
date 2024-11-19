@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Registros_CUN")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+82507d7bf985f4672566803a7ec6331db16b6d16")]
 [assembly: System.Reflection.AssemblyProductAttribute("Registros_CUN")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Registros_CUN")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
